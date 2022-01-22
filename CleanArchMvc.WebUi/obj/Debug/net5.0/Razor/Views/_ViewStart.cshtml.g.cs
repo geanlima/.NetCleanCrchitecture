@@ -19,8 +19,15 @@ using CleanArchMvc.WebUi;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.WebUi\Views\_ViewImports.cshtml"
+using CleanArchMvc.WebUi.ViewsModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"96564dafe54af4dc30856c615f1af73a26de393e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1db72c819b27155904cd78991535c400ab5514e3", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

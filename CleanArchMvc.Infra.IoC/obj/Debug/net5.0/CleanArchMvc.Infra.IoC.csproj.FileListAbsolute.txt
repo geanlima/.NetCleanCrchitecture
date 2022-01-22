@@ -1,3 +1,8 @@
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csprojAssemblyReference.cache
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
@@ -10,11 +15,6 @@ E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csprojAssemblyReference.cache
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
