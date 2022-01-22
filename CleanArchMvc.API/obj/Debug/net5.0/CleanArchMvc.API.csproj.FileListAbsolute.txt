@@ -50,7 +50,6 @@ E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\D
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -76,3 +75,4 @@ E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\D
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+E:\Curso\CleanArchitecture\Macoratti\Projeto\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

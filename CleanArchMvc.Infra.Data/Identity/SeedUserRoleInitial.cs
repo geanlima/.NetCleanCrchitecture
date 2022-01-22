@@ -58,6 +58,25 @@ namespace CleanArchMvc.Infra.Data.Identity
                     _userManager.AddToRoleAsync(user, "Admin").Wait();
                 }
             }
+
+            if (_userManager.FindByEmailAsync("geansilvalima@localhost").Result == null)
+            {
+                ApplicationUser user = new ApplicationUser();
+                user.UserName = "geansilvalima@localhost";
+                user.Email = "geansilvalima@localhost";
+                user.NormalizedUserName = "geansilvalima@localhost";
+                user.NormalizedEmail = "geansilvalima@localhost";
+                user.EmailConfirmed = true;
+                user.LockoutEnabled = false;
+                user.SecurityStamp = Guid.NewGuid().ToString();
+
+                IdentityResult result = _userManager.CreateAsync(user, "Numsey#2021").Result;
+
+                if (result.Succeeded)
+                {
+                    _userManager.AddToRoleAsync(user, "Admin").Wait();
+                }
+            }
         }
 
         public void SeedRoles()
